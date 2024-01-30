@@ -499,6 +499,10 @@ ul {
   padding: 29px 0;
 }
 
+.main_logo {
+  width: 150px;  
+}
+
 .main-menu-wrapper__logo {
   position: relative;
   margin-right: 40px;
