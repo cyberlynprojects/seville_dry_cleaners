@@ -534,7 +534,7 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  margin-left: 110px;
+  /* margin-left: 110px; */
   padding: 27.5px 0;
 }
 
@@ -559,7 +559,7 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  margin-left: 50px;
+  margin-left: 20px;
   padding-left: 50px;
 }
 
@@ -3430,6 +3430,10 @@ ul {
 
 .footer-widget__newsletter-btn:hover {
   background-color: #0f2746;
+}
+
+.footer-widget__logo img {
+  width: 200px;
 }
 
 .site-footer__bottom {
